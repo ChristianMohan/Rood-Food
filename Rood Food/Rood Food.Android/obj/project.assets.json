@@ -783,11 +783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.Android\\Rood Food.Android.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.Android\\Rood Food.Android.csproj",
       "projectName": "Rood Food.Android",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.Android\\Rood Food.Android.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.Android\\Rood Food.Android.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.Android\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

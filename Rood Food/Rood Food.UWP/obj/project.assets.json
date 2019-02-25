@@ -7387,11 +7387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.UWP\\Rood Food.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.UWP\\Rood Food.UWP.csproj",
       "projectName": "Rood Food.UWP",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.UWP\\Rood Food.UWP.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.UWP\\Rood Food.UWP.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.UWP\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

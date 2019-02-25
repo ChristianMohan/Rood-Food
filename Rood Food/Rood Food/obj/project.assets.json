@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food\\Rood Food.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food\\Rood Food.csproj",
       "projectName": "Rood Food",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food\\Rood Food.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food\\Rood Food.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

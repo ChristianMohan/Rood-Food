@@ -663,11 +663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.iOS\\Rood Food.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.iOS\\Rood Food.iOS.csproj",
       "projectName": "Rood Food.iOS",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.iOS\\Rood Food.iOS.csproj",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.iOS\\Rood Food.iOS.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood Food\\Rood Food\\Rood Food.iOS\\obj\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\Rood-Food\\Rood Food\\Rood Food.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
